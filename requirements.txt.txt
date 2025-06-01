@@ -9,3 +9,4 @@ opencv-contrib-python
 scikit-learn
 opencv-python 
 opencv-python-headless
+streamlit
